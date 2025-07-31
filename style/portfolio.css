@@ -16,6 +16,22 @@
     color: #FD6E0A;
 }
 
+.secondary-bg {
+    background-color: #fff8f3;
+}
+
+.section-title {
+    font-size: 35px;
+    font-weight: bold;
+    color: black;
+}
+
+.section-description {
+    font-size: 18px;
+    color: #757575;
+
+}
+
 
 .header {
     background-image: url(../images//developer.png), url(../images//header_bg.png);
@@ -88,4 +104,8 @@ nav li a {
 
 .banner-profile {
     width: 580px;
+}
+
+.about {
+    border-radius: 10px;
 }

@@ -106,6 +106,34 @@ nav li a {
     width: 580px;
 }
 
+
+
+/* Main Style */
+.main {
+    max-width: 1140px;
+    margin: 0 auto;
+    
+}
 .about {
     border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+    
 }
+
+
+.about-items {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.item-description {
+    font-weight: 600;
+}
+
+
+
+
+
